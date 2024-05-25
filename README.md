@@ -5,4 +5,4 @@ Repository for all resources from the [PostBusters group](https://www.linkedin.c
 ## Related repositories
 
 - [backend](https://github.com/Lucas-vK/PostBusters-backend)  
-- [frontend]()  
+- [frontend](https://github.com/mashinakatherina/PostBusters-frontend)  
